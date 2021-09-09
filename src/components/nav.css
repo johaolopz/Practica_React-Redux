@@ -1,0 +1,17 @@
+.navContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.aContainer {
+    display: flex;
+}
+
+.formContainer {
+    display: flex;
+}
+
+#spanNav {
+    text-decoration: none;
+}
